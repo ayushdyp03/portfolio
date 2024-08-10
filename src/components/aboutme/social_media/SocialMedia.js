@@ -19,7 +19,7 @@ export default function SocialMedia() {
         <Row className="g-5">
           <Col md={3}>
             <a
-              href="https://www.instagram.com/_md_mafujul_hasan_/"
+              href="https://www.instagram.com/shree_vedpathak04/"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"
@@ -29,21 +29,10 @@ export default function SocialMedia() {
               </Zoom>
             </a>
           </Col>
+         
           <Col md={3}>
             <a
-              href="https://www.facebook.com/mh.tonmoy.13"
-              target="_blank"
-              rel="noreferrer"
-              className="icon-colour  home-social-icons"
-            >
-              <Zoom cascade>
-                <AiFillFacebook />
-              </Zoom>
-            </a>
-          </Col>
-          <Col md={3}>
-            <a
-              href="https://github.com/MD-MAFUJUL-HASAN"
+              href="https://github.com/shreevedpathak04"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"
@@ -55,7 +44,7 @@ export default function SocialMedia() {
           </Col>
           <Col md={3}>
             <a
-              href="https://www.linkedin.com/in/md-mafujul-hasan/"
+              href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGTApMvXZRaOgAAAZE6_kjI1Nz8T3myYxlZcaJiVdaE33Wj9j7t6laAvq9rY4aQUlgJYMS3Y9Gm0zf9yWH5Q31-MuOKEda2eAxhSSyps3LyA7nQeOmc6t_VHIwyNjb3ZYqha-0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshreenidhi-vedpathak-98b806229"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"
