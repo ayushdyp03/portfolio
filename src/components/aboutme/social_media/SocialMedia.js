@@ -17,7 +17,7 @@ export default function SocialMedia() {
       </Zoom>
       <Container className="mt-5">
         <Row className="g-5">
-          <Col md={3}>
+          <Col md={4}>
             <a
               href="https://www.instagram.com/shree_vedpathak04/"
               target="_blank"
@@ -30,7 +30,7 @@ export default function SocialMedia() {
             </a>
           </Col>
          
-          <Col md={3}>
+          <Col md={4}>
             <a
               href="https://github.com/shreevedpathak04"
               target="_blank"
@@ -42,7 +42,7 @@ export default function SocialMedia() {
               </Zoom>
             </a>
           </Col>
-          <Col md={3}>
+          <Col md={4}>
             <a
               href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGTApMvXZRaOgAAAZE6_kjI1Nz8T3myYxlZcaJiVdaE33Wj9j7t6laAvq9rY4aQUlgJYMS3Y9Gm0zf9yWH5Q31-MuOKEda2eAxhSSyps3LyA7nQeOmc6t_VHIwyNjb3ZYqha-0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshreenidhi-vedpathak-98b806229"
               target="_blank"
